@@ -1,0 +1,74 @@
+[
+    {
+        "motor": {
+            "id": 0,
+            "tipo": "mec\u00e1nico",
+            "cilindrada": "6",
+            "potencia": "mucha",
+            "km_lt": 10.9,
+            "vel_max": "200Km",
+            "rendimiento": "mucho",
+            "ult_rev": "2024-05-10",
+            "falla": false
+        },
+        "patente": "AA1122",
+        "marca": "Volvo",
+        "modelo": "Gama FH",
+        "ano": 2011,
+        "capacidad": "20m\u00b3",
+        "km_camion": "123.403Km",
+        "precio": "$25.000",
+        "tipo": "camion",
+        "peso_max": "10T",
+        "estado": "Disponible",
+        "ultima_mantencion": "2025-01-10T15:59:03.462306"
+    },
+    {
+        "motor": {
+            "id": 1,
+            "tipo": "mec\u00e1nico",
+            "cilindrada": "6",
+            "potencia": "mucha",
+            "km_lt": 10.9,
+            "vel_max": "200Km",
+            "rendimiento": "mucho",
+            "ult_rev": "2024-05-10",
+            "falla": false
+        },
+        "patente": "CCDD22",
+        "marca": "Renault",
+        "modelo": "trucks gamma D",
+        "ano": 2010,
+        "capacidad": "30m\u00b3",
+        "km_camion": "200.430Km",
+        "precio": "$25.000",
+        "tipo": "camion",
+        "peso_max": "10T",
+        "estado": "Disponible",
+        "ultima_mantencion": "2024-12-25T11:37:26.215508"
+    },
+    {
+        "motor": {
+            "id": 2,
+            "tipo": "mec\u00e1nico",
+            "cilindrada": "10.4",
+            "potencia": "570 CV (397 km) a 1,400 rpm",
+            "km_lt": 10.0,
+            "vel_max": "150 km",
+            "rendimiento": "optimo",
+            "ult_rev": "2024-05-30",
+            "falla": false
+        },
+        "patente": "BBCC11",
+        "marca": "Volvo",
+        "modelo": "Gama FH",
+        "ano": 2000,
+        "capacidad": "25m^3",
+        "km_camion": "200.000Km",
+        "precio": "20.000",
+        "tipo": "camion",
+        "peso_max": "10T",
+        "estado": "Disponible",
+        "ultima_mantencion": "2025-01-10T16:12:59.036577"
+    }
+]
